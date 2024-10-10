@@ -1,5 +1,6 @@
-# simple-todo-app
-Todo app for learning React Native
+# ready application
+
+![todos](./todo-app/assets/images/todos.png)
 
 # Welcome to your Expo app 👋
 
